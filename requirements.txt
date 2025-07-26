@@ -1,0 +1,2 @@
+# No external libraries are needed for this tool.
+# PyInstaller will be installed separately during the build step.
